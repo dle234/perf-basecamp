@@ -2742,13 +2742,13 @@ function createSearchParams(init) {
 var bind = __webpack_require__(726);
 var bind_default = /*#__PURE__*/__webpack_require__.n(bind);
 ;// CONCATENATED MODULE: ./src/assets/images/hero.png
-/* harmony default export */ const hero = (__webpack_require__.p + "static/optimized-hero.png");
+/* harmony default export */ const hero = (__webpack_require__.p + "static/hero.png");
 ;// CONCATENATED MODULE: ./src/assets/images/trending.gif
-/* harmony default export */ const trending = (__webpack_require__.p + "static/optimized-trending.gif");
+/* harmony default export */ const trending = (__webpack_require__.p + "static/trending.gif");
 ;// CONCATENATED MODULE: ./src/assets/images/find.gif
-/* harmony default export */ const find = (__webpack_require__.p + "static/optimized-find.gif");
+/* harmony default export */ const find = (__webpack_require__.p + "static/find.gif");
 ;// CONCATENATED MODULE: ./src/assets/images/free.gif
-/* harmony default export */ const free = (__webpack_require__.p + "static/optimized-free.gif");
+/* harmony default export */ const free = (__webpack_require__.p + "static/free.gif");
 ;// CONCATENATED MODULE: ./src/pages/Home/components/FeatureItem/FeatureItem.module.css
 // extracted by mini-css-extract-plugin
 /* harmony default export */ const FeatureItem_module = ({"featureItem":"yR2bl83i7n3Lc4ET9GNx","featureTitle":"e2JFaEZbum1dTQuAa4pW","featureTitleBg":"tVy6wXEAU4w_lw0XEFMd","featureImage":"Fn1og_9eWzqLu13FzZt_"});
